@@ -33,8 +33,7 @@ int main(void) {
 	{
 		for(j=0;j<n;j++)
 		{
-		   printf("%d",b[i][j]);
-		   printf("");
+		   printf("%d ",b[i][j]);
 		}
 		printf("\n");
 	}
