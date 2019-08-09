@@ -34,7 +34,7 @@ int main(void) {
 		for(j=0;j<n;j++)
 		{
 		   printf("%d",b[i][j]);
-		   printf(" ");
+		   printf("");
 		}
 		printf("\n");
 	}
